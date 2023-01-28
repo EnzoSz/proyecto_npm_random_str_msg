@@ -1,0 +1,31 @@
+{
+  "name": "proyecto_npm_random_str_msg",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/EnzoSz/proyecto_npm_random_str_msg.git"
+  },
+  "keywords": [
+    "javascript",
+    "node",
+    "react"
+  ],
+  "author": "Enzo Soliz <enzosoliz95@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/EnzoSz/proyecto_npm_random_str_msg/issues"
+  },
+  "homepage": "https://github.com/EnzoSz/proyecto_npm_random_str_msg#readme",
+  "bin": {
+    "proyecto_npm_random_str_msg": "./bin/global.js"
+  },
+  "preferGlobal": true,
+  "dependencies": {
+    "g": "^2.0.1"
+  }
+}
